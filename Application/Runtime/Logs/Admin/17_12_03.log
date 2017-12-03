@@ -1,0 +1,154 @@
+[ 2017-12-03T19:54:29+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-12-03T19:54:30+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-12-03T19:55:09+08:00 ] 127.0.0.1 /
+ERR: 无法加载控制器:Index
+
+[ 2017-12-03T20:33:15+08:00 ] 127.0.0.1 /index.php/Admin/Login/css/login.css
+ERR: 非法操作:css
+
+[ 2017-12-03T20:33:15+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:34:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:34:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:34:06+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:34:24+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:36:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:45:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:45:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:45:59+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:45:59+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:46:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:49:07+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:49:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T20:49:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:11:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/jquery-3.1.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:12:01+08:00 ] 127.0.0.1 /index.php/Admin/Admin/list
+ERR: 无法加载控制器:Admin
+
+[ 2017-12-03T21:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Admin/list
+ERR: 无法加载控制器:Admin
+
+[ 2017-12-03T21:13:18+08:00 ] 127.0.0.1 /index.php/Admin/Admin/list
+ERR: 无法加载控制器:Admin
+
+[ 2017-12-03T21:13:18+08:00 ] 127.0.0.1 /index.php/Admin/Admin/list
+ERR: 无法加载控制器:Admin
+
+[ 2017-12-03T21:13:24+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:14:04+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:14:07+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:14:32+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:15:27+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:15:50+08:00 ] 127.0.0.1 /index.php/Admin/Admin/ManagerController/list
+ERR: 无法加载控制器:Admin
+
+[ 2017-12-03T21:16:24+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:16:34+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:19:47+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:21:07+08:00 ] 127.0.0.1 /index.php/Admin/ManagerController/list
+ERR: 无法加载控制器:ManagerController
+
+[ 2017-12-03T21:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Manager/list
+ERR: 非法操作:list
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/jquery-1.8.1.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/css/main.css
+ERR: 非法操作:css
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/css/bootstrap-responsive.min.css
+ERR: 非法操作:css
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:21:58+08:00 ] 127.0.0.1 /index.php/Admin/Manager/js/calendar/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2017-12-03T21:32:39+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [1049] Unknown database 'shop'
+
+[ 2017-12-03T21:33:12+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [1049] Unknown database 'Shop'
+
+[ 2017-12-03T21:50:59+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
