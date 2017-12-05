@@ -71,70 +71,18 @@
 <!-- 右 -->
 <div class="content">
     <div class="header">
-        <h1 class="page-title">管理员列表</h1>
+        <h1 class="page-title">重置密码</h1>
     </div>
 
     <div class="well">
-        <!-- search button -->
-        <form action="" method="get" class="form-search">
-            <div class="row-fluid" style="text-align: left;">
-                <div class="pull-left span4 unstyled">
-                    <p> 用户名：<input class="input-medium" name="" type="text"></p>
-                </div>
-                <div class="pull-left span4 unstyled">
-                    <p> 开始时间：<input class="input-medium" name="" type="text" onclick="WdatePicker()"></p>
-                </div>
-            </div>
-            <button type="submit" class="btn">查找</button>
-            <a class="btn btn-primary" onclick="javascript:window.location.href='/index.php/Admin/Manager/add'">新增</a>
+        <!-- edit form -->
+        <form action="/index.php/Admin/Manager/resetPwd" method="post" id="tab">
+            <label>新密码</label>
+            <input type="hidden" name="id" value="<?php echo ($data["id"]); ?>" class="input-xlarge">
+            <input type="password" name="password" value="" class="input-xlarge">
+            </br>
+            <button class="btn btn-primary" type="submit" >保存</button>
         </form>
-    </div>
-    <div class="well">
-        <!-- table -->
-        <table class="table table-bordered table-hover table-condensed">
-            <thead>
-                <tr>
-                    <th>编号</th>
-                    <th>用户名</th>
-                    <th>昵称</th>
-                    <th>邮箱</th>
-                    <th>上次登录时间</th>
-                    <th>是否可用</th>
-                    <th>修改时间</th>
-                    <th>操作</th>
-                </tr>
-            </thead>
-            <tbody>
-            <?php if(is_array($data)): $k = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$data): $mod = ($k % 2 );++$k;?><tr class="success">
-                    <td><?php echo ($k); ?></td>
-                    <td><?php echo ($data["username"]); ?></td>
-                    <td><?php echo ($data["nickname"]); ?></td>
-                    <td><?php echo ($data["email"]); ?></td>
-                    <td><?php echo ($data["last_login_time"]); ?></td>
-                    <td>
-                        <?php if( $data["status"] == 1 ): ?>是
-                            <?php else: ?>否<?php endif; ?>
-                    </td>
-                    <td><?php echo ($data["update_time"]); ?></td>
-                    <td>
-                        <a href="/index.php/Admin/Manager/edit/id/<?php echo ($data["id"]); ?>"> 编辑 </a>
-                        <a href="javascript:void(0);" onclick="if(confirm('确认删除？')) location.href='/index.php/Admin/Manager/del/id/<?php echo ($data["id"]); ?>'"> 删除 </a>
-                        <a href="/index.php/Admin/Manager/resetPwd/id/<?php echo ($data["id"]); ?>"> 重置密码 </a>
-                    </td>
-                </tr><?php endforeach; endif; else: echo "" ;endif; ?>
-            </tbody>
-        </table>
-        <!-- pagination -->
-        <div class="pagination">
-            <ul>
-                <li><a href="#">Prev</a></li>
-                <li><a href="#">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">Next</a></li>
-            </ul>
-        </div>
     </div>
     <!-- footer -->
     <footer>
@@ -149,6 +97,4 @@
 <![endif]-->
 <script src="/Public/Admin/js/jquery-1.8.1.min.js"></script>
 <script src="/Public/Admin/js/bootstrap.min.js"></script>
-<!-- 日期控件 -->
-<script src="/Public/Admin/js/calendar/WdatePicker.js"></script>
 </html>

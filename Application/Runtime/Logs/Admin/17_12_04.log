@@ -1,0 +1,28 @@
+[ 2017-12-04T00:00:06+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:00:20+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:00:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:01:42+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:01:44+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:01:45+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  =>2 ) LIMIT 1  
+
+[ 2017-12-04T00:02:47+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>2 ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `tpshop_manager` WHERE (  id=>2 ) LIMIT 1  
+

@@ -42,7 +42,7 @@
     <a href="#error-menu" class="nav-header collapsed" data-toggle="collapse"><i class="icon-exclamation-sign"></i>权限管理</a>
     <ul id="error-menu" class="nav nav-list collapse">
         <li><a href="/index.php/Admin/Manager/index">管理员列表</a></li>
-        <li><a href="javascript:void(0);">管理员新增</a></li>
+        <li><a href="/index.php/Admin/Manager/add">管理员新增</a></li>
         <li><a href="javascript:void(0);">角色管理</a></li>
         <li><a href="javascript:void(0);">权限管理</a></li>
     </ul>
@@ -76,13 +76,14 @@
 
     <div class="well">
         <!-- edit form -->
-        <form action="" method="" id="tab">
+        <form action="/index.php/Admin/Manager/edit" method="post" id="tab">
             <label>用户名：</label>
-            <input type="text" name="" value="<?php echo ($data["username"]); ?>" class="input-xlarge">
+            <input type="hidden" name="id" value="<?php echo ($data["id"]); ?>" class="input-xlarge">
+            <input type="text" name="name" value="<?php echo ($data["username"]); ?>" class="input-xlarge">
             <label>昵称：</label>
-            <input type="text" name="" value="<?php echo ($data["nickname"]); ?>" class="input-xlarge">
+            <input type="text" name="nick" value="<?php echo ($data["nickname"]); ?>" class="input-xlarge">
             <label>邮箱：</label>
-            <input type="text" name="" value="<?php echo ($data["email"]); ?>" class="input-xlarge">
+            <input type="text" name="email" value="<?php echo ($data["email"]); ?>" class="input-xlarge">
             <button class="btn btn-primary" type="submit" >保存</button>
         </form>
     </div>

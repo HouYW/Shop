@@ -1,0 +1,30 @@
+[ 2017-12-05T13:48:05+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit
+ERR: Think\Model:saveData鏂规硶涓嶅瓨鍦紒
+
+[ 2017-12-05T14:03:33+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:04:04+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:05:15+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:24:09+08:00 ] 127.0.0.1 /index.php/Admin/Manager/edit/id/7
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:24:36+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index.html
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:25:29+08:00 ] 127.0.0.1 /index.php/Admin/Manager/index
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2017-12-05T14:58:41+08:00 ] 127.0.0.1 /index.php/Admin/Manager/add
+ERR: Think\Model:addData鏂规硶涓嶅瓨鍦紒
+
